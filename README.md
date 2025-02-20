@@ -3,6 +3,7 @@ Third-year Computer Engineering student passionate about IT and cybersecurity. E
 
 
 ## 🌐 Socials:
+[![htb](https://imgs.search.brave.com/uiTuc9QruRj0-Ak4aezjD160AJI1eaO1ZDV6vtBhcYc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTMyMzQzOGZk/OWIwZjlhZjFhYzI2/NmI5OGIyZmUwYzc5/NGYxOTgwNjBhMTU5/MTg1Y2ZhNzI5ODRj/ZWJiZjVhMC93d3cu/aGFja3RoZWJveC5j/b20v)](https://app.hackthebox.com/profile/1765948)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diego04alvarezf@gmail.com) 
 
 # 💻 Tech Stack:
