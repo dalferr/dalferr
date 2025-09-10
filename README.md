@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year Computer Engineering student passionate about IT and cybersecurity. Experienced in Java, Python, C, software engineering, Bash scripting, and system/network administration.
+Computer Engineering student passionate about IT and cybersecurity. Experienced in Java, Python, C, software engineering, Bash scripting and system/network administration.
 
 
 ## 🌐 Socials:
